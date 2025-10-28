@@ -4,7 +4,11 @@
   --bg: #000000;
   --panel: #0e0e0e;
   --muted: #a8a8a8;
-  --accent: #ff7a00; /* orange accent */
+  /* --accent: #ff7a00;  */
+  /* --accent: #00c896;  */
+  /* --accent: #007bff;  */
+  --accent: #9ca3af; 
+  /* --accent: #00bcd4;  */
   --white: #ffffff;
   --max-w: 1100px;
   --radius: 8px;
@@ -82,7 +86,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10px;
+  padding: 20px 10px;
   background: transparent;
   transition: top 0.4s ease-in-out;
   z-index: 1000;
